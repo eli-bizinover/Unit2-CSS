@@ -1,0 +1,21 @@
+h1, h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.player-card p {
+    color:#F2B705;
+}
+.player-card .btn{
+    background-color: #F2B705;
+}
+#banner{
+border-bottom: 3px solid rgb(120, 254, 120);
+}
+.about p {
+    font-style:italic ;
+}
+.tag, .stat{
+    font-weight: bold;
+}
+.footer{
+    color: #AEC0D8;
+}
