@@ -39,3 +39,7 @@ h2, h3 {
 nav a{
     color:rgb(99, 222, 128);
 }
+
+li + li {
+    border-top: 1px solid #78eb55;
+}
